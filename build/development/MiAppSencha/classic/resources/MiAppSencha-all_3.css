@@ -1,0 +1,3461 @@
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after,
+.x-split-button.x-btn-default-toolbar-medium.x-arrow-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after {
+    background-color: #9d9d9d;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split:after,
+.x-split-button.x-btn-default-toolbar-medium.x-arrow-pressed.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split:after {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before,
+.x-split-button.x-btn-default-toolbar-medium.x-arrow-pressed.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #b8b8b8;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after,
+.x-split-button.x-btn-default-toolbar-medium.x-arrow-pressed.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after {
+    background-color: #b8b8b8;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-medium.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus .x-btn-wrap-default-toolbar-medium.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split:after,
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-arrow-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before,
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-arrow-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-menu-active .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after,
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-arrow-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after {
+    background-color: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-pressed .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:442 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-right + .x-btn-arrow-el:before {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:449 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-medium.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-medium.x-btn-split-bottom:after {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:128 */
+.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-arrow-right:after {
+    padding-left: 8px;
+    padding-top: 2px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:136 */
+.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:140 */
+.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:144 */
+.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:160 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:164 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:168 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:175 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-focus.x-btn-over {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:189 */
+.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large.x-btn-arrow:after,
+.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:193 */
+.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large,
+.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:197 */
+.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large,
+.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:204 */
+.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over,
+.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over {
+    background-color: #b8b8b8;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:211 */
+.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over .x-btn-wrap-default-toolbar-large.x-btn-arrow:after,
+.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:215 */
+.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large,
+.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:219 */
+.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large,
+.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:228 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-pressed.x-btn-focus,
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-menu-active.x-btn-focus {
+    background-color: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:235 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-pressed.x-btn-focus .x-btn-wrap-default-toolbar-large.x-btn-arrow:after,
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-menu-active.x-btn-focus .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:239 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-pressed.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large,
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-menu-active.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:243 */
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-pressed.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large,
+.x-keyboard-mode .x-btn-default-toolbar-large.x-btn-menu-active.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:260 */
+.x-btn-default-toolbar-large.x-btn-disabled .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: rgba(27, 27, 27, 0.5);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:264 */
+.x-btn-default-toolbar-large.x-btn-disabled .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: rgba(27, 27, 27, 0.5);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:268 */
+.x-btn-default-toolbar-large.x-btn-disabled .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: rgba(27, 27, 27, 0.5);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:275 */
+.x-btn-default-toolbar-large.x-btn-disabled.x-btn-pressed {
+    background-color: rgba(157, 157, 157, 0.5);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:282 */
+.x-btn-default-toolbar-large.x-btn-disabled.x-btn-pressed .x-btn-wrap-default-toolbar-large.x-btn-arrow:after {
+    color: rgba(255, 255, 255, 0.5);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:286 */
+.x-btn-default-toolbar-large.x-btn-disabled.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: rgba(255, 255, 255, 0.5);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:290 */
+.x-btn-default-toolbar-large.x-btn-disabled.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: rgba(255, 255, 255, 0.5);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:457 */
+.x-split-button.x-btn-default-toolbar-large {
+    background-color: #d9d9d9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:462 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed,
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active {
+    background-color: #d9d9d9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:466 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus {
+    background-color: #d9d9d9;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:473 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus .x-btn-arrow-el {
+    border-width: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:482 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right:before {
+    right: 49px;
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:487 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el {
+    right: 48px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:490 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    right: -48px;
+    width: 48px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:496 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right .x-btn-button:before {
+    width: 48px;
+    right: -48px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:502 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:before {
+    bottom: 49px;
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:507 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    background-color: transparent;
+    margin-left: -16px;
+    margin-right: -16px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:513 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split:after {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:517 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:521 */
+.x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:528 */
+.x-ie10p .x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large .x-btn-button.x-btn-icon-top,
+.x-ie10p .x-split-button.x-btn-default-toolbar-large .x-btn-wrap-default-toolbar-large .x-btn-button.x-btn-icon-bottom {
+    overflow: visible;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    background-color: #aeaeae;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #1b1b1b;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #1b1b1b;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    background-color: #d9d9d9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #1b1b1b;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #1b1b1b;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    background-color: #9d9d9d;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #fff;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #fff;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    background-color: #b8b8b8;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #fff;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-pressed.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #fff;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #1b1b1b;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #1b1b1b;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:365 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    background-color: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:372 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-icon-el-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:377 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-inner-default-toolbar-large {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: #1b1b1b;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: #1b1b1b;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:426 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-btn-focus.x-btn-over:not(.x-arrow-over) .x-btn-wrap-default-toolbar-large.x-btn-split:before {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split:after {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #aeaeae;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    background-color: #aeaeae;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split:after,
+.x-split-button.x-btn-default-toolbar-large.x-arrow-pressed .x-btn-wrap-default-toolbar-large.x-btn-split:after {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before,
+.x-split-button.x-btn-default-toolbar-large.x-arrow-pressed .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #9d9d9d;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after,
+.x-split-button.x-btn-default-toolbar-large.x-arrow-pressed .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    background-color: #9d9d9d;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split:after,
+.x-split-button.x-btn-default-toolbar-large.x-arrow-pressed.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split:after {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before,
+.x-split-button.x-btn-default-toolbar-large.x-arrow-pressed.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #b8b8b8;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after,
+.x-split-button.x-btn-default-toolbar-large.x-arrow-pressed.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    background-color: #b8b8b8;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-split-button.x-btn-default-toolbar-large.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus .x-btn-wrap-default-toolbar-large.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:394 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split:after,
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-arrow-pressed .x-btn-wrap-default-toolbar-large.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:401 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before,
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-arrow-pressed .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    background-color: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:406 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-menu-active .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after,
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-arrow-pressed .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    background-color: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-pressed .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:344 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-right > .x-btn-button:after {
+    border-right-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:351 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-bottom > .x-btn-button:after {
+    border-bottom-color: transparent;
+    content: '';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:442 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-right + .x-btn-arrow-el:before {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/button/Button.scss:449 */
+.x-keyboard-mode .x-split-button.x-btn-default-toolbar-large.x-arrow-focus.x-btn-over.x-arrow-over .x-btn-wrap-default-toolbar-large.x-btn-split-bottom:after {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/panel/Tool.scss:1 */
+.x-tool-tool-el {
+    margin: 2px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/panel/Tool.scss:6 */
+.x-keyboard-mode .x-tool-focus {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/panel/Tool.scss:9 */
+.x-keyboard-mode .x-tool-focus .x-tool-tool-el {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/panel/Tool.scss:15 */
+.x-tool-over {
+    background-color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/panel/Tool.scss:18 */
+.x-tool-over .x-tool-tool-el {
+    color: #1b1b1b;
+    background-color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/panel/Header.scss:1 */
+.x-panel-header-title.x-title-focus {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/resizer/Splitter.scss:3 */
+.x-keyboard-mode .x-splitter-focus .x-collapse-el {
+    color: #fff;
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/layout/container/Box.scss:1 */
+.x-form-fieldcontainer > .x-form-item-body > .x-box-layout-ct > .x-box-inner {
+    min-height: 50px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/layout/container/Box.scss:5 */
+.x-box-scroller-menu-default.x-box-scroller-top,
+.x-box-scroller-menu-default.x-box-scroller-bottom {
+    margin: 0px;
+    left: 0;
+    width: 100%;
+    height: 20px;
+    color: #e2e2e2;
+    padding-top: 2px;
+    background-color: #1b1b1b;
+    opacity: 1;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/layout/container/Box.scss:16 */
+.x-box-scroller-menu-default.x-box-scroller-top:before,
+.x-box-scroller-menu-default.x-box-scroller-bottom:before {
+    opacity: 0.5;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/layout/container/Box.scss:20 */
+.x-box-scroller-menu-default.x-box-scroller-top.x-box-scroller-hover,
+.x-box-scroller-menu-default.x-box-scroller-bottom.x-box-scroller-hover {
+    background-color: #fff;
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/layout/container/Box.scss:24 */
+.x-box-scroller-menu-default.x-box-scroller-top.x-box-scroller-hover:before,
+.x-box-scroller-menu-default.x-box-scroller-bottom.x-box-scroller-hover:before {
+    opacity: 0.8;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/layout/container/Box.scss:28 */
+.x-box-scroller-menu-default.x-box-scroller-top.x-box-scroller-hover.x-box-scroller-pressed:before,
+.x-box-scroller-menu-default.x-box-scroller-bottom.x-box-scroller-hover.x-box-scroller-pressed:before {
+    opacity: 1;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/layout/container/Box.scss:33 */
+.x-box-scroller-menu-default.x-box-scroller-top.x-box-scroller-disabled,
+.x-box-scroller-menu-default.x-box-scroller-bottom.x-box-scroller-disabled {
+    background-color: #1b1b1b;
+    color: #e2e2e2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/layout/container/Box.scss:37 */
+.x-box-scroller-menu-default.x-box-scroller-top.x-box-scroller-disabled:before,
+.x-box-scroller-menu-default.x-box-scroller-top.x-box-scroller-disabled.x-box-scroller-pressed:before,
+.x-box-scroller-menu-default.x-box-scroller-bottom.x-box-scroller-disabled:before,
+.x-box-scroller-menu-default.x-box-scroller-bottom.x-box-scroller-disabled.x-box-scroller-pressed:before {
+    opacity: 0.5;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/toolbar/Toolbar.scss:1 */
+.x-toolbar-default-docked-bottom {
+    background-color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Text.scss:1 */
+.x-form-trigger-wrap-default {
+    background-color: #6d6d6d;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Text.scss:5 */
+.x-form-trigger-wrap-focus {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Text.scss:8 */
+.x-form-trigger-wrap-focus .x-form-text-wrap .x-form-text-default,
+.x-form-trigger-wrap-focus .x-form-trigger,
+.x-form-trigger-wrap-focus .x-form-spinner-focus {
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Text.scss:14 */
+.x-form-trigger-wrap-focus .x-form-text-wrap input {
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Text.scss:17 */
+.x-form-trigger-wrap-focus .x-form-text-wrap input::-ms-clear {
+    display: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Text.scss:22 */
+.x-form-trigger-wrap-focus:hover {
+    position: relative;
+    outline: 3px solid #fff;
+    outline-offset: -3px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/css-outline.scss:63 */
+.x-ie .x-form-trigger-wrap-focus:hover,
+.x-ie10p .x-form-trigger-wrap-focus:hover,
+.x-edge .x-form-trigger-wrap-focus:hover {
+    outline: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/css-outline.scss:39 */
+.x-ie .x-form-trigger-wrap-focus:hover:after,
+.x-ie10p .x-form-trigger-wrap-focus:hover:after,
+.x-edge .x-form-trigger-wrap-focus:hover:after {
+    position: absolute;
+    content: ' ';
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    border: 3px solid #fff;
+    pointer-events: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Text.scss:35 */
+.x-form-trigger-default.x-form-trigger-over,
+.x-form-trigger-default .x-form-spinner-over {
+    background-color: #868686;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Text.scss:41 */
+.x-form-trigger-wrap-focus .x-form-trigger-default.x-form-trigger-over,
+.x-form-trigger-wrap-focus .x-form-trigger-default .x-form-spinner-over {
+    background-color: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/selection-color.scss:2 */
+.x-form-text::-moz-selection {
+    background: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/selection-color.scss:6 */
+.x-form-text::selection {
+    background: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/placeholder-text-color.scss:2 */
+.x-form-text::-webkit-input-placeholder {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/placeholder-text-color.scss:6 */
+.x-form-text::-moz-placeholder {
+    /* Firefox 19+ */
+    /* Firefox 19+ */
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/placeholder-text-color.scss:10 */
+.x-form-text:-ms-input-placeholder {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Text.scss:53 */
+.x-form-trigger-wrap-invalid {
+    border-width: 1px;
+    border-color: #cf4c35;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/FieldSet.scss:2 */
+.x-keyboard-mode .x-fieldset-header-tool-default.x-focus {
+    outline: unset;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/FieldSet.scss:5 */
+.x-keyboard-mode .x-fieldset-header-tool-default.x-focus > .x-tool-toggle {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/FieldSet.scss:12 */
+.x-fieldset-header-tool-default.x-tool-over > .x-tool-toggle {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/FieldSet.scss:17 */
+.x-fieldset-header-tool-default > .x-tool-toggle {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/view/View.scss:2 */
+.x-keyboard-mode .x-view-item-focused {
+    outline: 1px dashed #fff !important;
+    outline-offset: -1px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/toolbar/Paging.scss:4 */
+.x-grid-paging-toolbar .x-btn .x-btn-wrap .x-btn-icon-el {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/toolbar/Paging.scss:8 */
+.x-grid-paging-toolbar .x-btn .x-btn-wrap .x-btn-inner {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/toolbar/Paging.scss:12 */
+.x-grid-paging-toolbar .x-btn .x-btn-wrap.x-btn-arrow-right:after,
+.x-grid-paging-toolbar .x-btn .x-btn-wrap.x-btn-arrow-split:after {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/toolbar/Paging.scss:19 */
+.x-grid-paging-toolbar .x-slider .x-slider-thumb {
+    border-color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/picker/Date.scss:1 */
+.x-datepicker-arrow {
+    top: 0px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/picker/Date.scss:5 */
+.x-datepicker-today .x-datepicker-date {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/picker/Date.scss:9 */
+.x-datepicker-month .x-btn-wrap.x-btn-split-right:before {
+    border-right: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/File.scss:1 */
+.x-form-file-wrap .x-form-trigger-wrap-default {
+    background: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/File.scss:4 */
+.x-form-file-wrap .x-form-trigger-wrap-default .x-form-text-wrap.x-form-text-wrap-default {
+    background-color: #6d6d6d;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/File.scss:8 */
+.x-form-file-wrap .x-form-trigger-wrap-default.x-form-trigger-wrap-focus:hover {
+    position: relative;
+    outline: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/File.scss:12 */
+.x-form-file-wrap .x-form-trigger-wrap-default.x-form-trigger-wrap-focus:hover:after {
+    display: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/File.scss:19 */
+.x-form-file-wrap .x-form-trigger-wrap-default .x-form-trigger.x-form-trigger-over,
+.x-form-file-wrap .x-form-trigger-wrap-default .x-form-trigger.x-form-spinner-over {
+    background: none;
+    cursor: initial;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:1 */
+.x-tagfield-empty-input,
+.x-tagfield-input-field {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/selection-color.scss:2 */
+.x-tagfield-empty-input::-moz-selection,
+.x-tagfield-input-field::-moz-selection {
+    background: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/selection-color.scss:6 */
+.x-tagfield-empty-input::selection,
+.x-tagfield-input-field::selection {
+    background: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/placeholder-text-color.scss:2 */
+.x-tagfield-empty-input::-webkit-input-placeholder,
+.x-tagfield-input-field::-webkit-input-placeholder {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/placeholder-text-color.scss:6 */
+.x-tagfield-empty-input::-moz-placeholder,
+.x-tagfield-input-field::-moz-placeholder {
+    /* Firefox 19+ */
+    /* Firefox 19+ */
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/placeholder-text-color.scss:10 */
+.x-tagfield-empty-input:-ms-input-placeholder,
+.x-tagfield-input-field:-ms-input-placeholder {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:10 */
+.x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected {
+    background-color: #e6e6e6;
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:14 */
+.x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected .x-tagfield-item-close {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:18 */
+.x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected:hover {
+    background-color: #cecece;
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:22 */
+.x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected:hover .x-tagfield-item-close {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:29 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item {
+    background-color: #1b1b1b;
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:33 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item .x-tagfield-item-close {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:37 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item:hover {
+    background-color: #0072b2;
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:41 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item:hover .x-tagfield-item-close {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:46 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected {
+    background-color: #0072b2;
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:50 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected .x-tagfield-item-close {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:54 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected:hover {
+    background-color: #0072b2;
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/form/field/Tag.scss:58 */
+.x-keyboard-mode .x-field-focus .x-tagfield .x-tagfield-list .x-tagfield-item.x-tagfield-item-selected:hover .x-tagfield-item-close {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/view/Table.scss:1 */
+.x-grid-item-selected.x-grid-item-focused .x-selmodel-column .x-grid-checkcolumn:after {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/view/Table.scss:5 */
+.x-grid-item-selected .x-grid-cell-row-numberer {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/view/Table.scss:9 */
+.x-grid-with-row-lines .x-grid-item.x-grid-item-selected:first-child {
+    border-top-color: #424242;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/view/Table.scss:13 */
+.x-grid-item {
+    min-height: 50px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/view/Table.scss:18 */
+.x-keyboard-mode .x-grid-row .x-grid-cell.x-grid-item-focused.x-grid-cell-selected {
+    color: #fff;
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/header/DropZone.scss:1 */
+.x-col-move-top,
+.x-col-move-bottom {
+    background-size: cover;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/column/Column.scss:3 */
+.x-keyboard-mode .x-column-header-focus .x-column-header-over {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/column/Column.scss:7 */
+.x-keyboard-mode .x-column-header-focus .x-column-header-over .x-column-header-trigger {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/column/Column.scss:17 */
+.x-column-header-sort-ASC .x-column-header-text-inner,
+.x-column-header-sort-DESC .x-column-header-text-inner {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/column/Column.scss:24 */
+.x-column-header-focus .x-column-header-text-inner,
+.x-column-header-over .x-column-header-text-inner {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/column/Column.scss:27 */
+.x-column-header-focus .x-column-header-text-inner:after,
+.x-column-header-over .x-column-header-text-inner:after {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/column/Action.scss:2 */
+.x-keyboard-mode .x-grid-cell-inner-action-col {
+    text-align: center;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/column/Action.scss:5 */
+.x-keyboard-mode .x-grid-cell-inner-action-col .x-action-col-icon:focus {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/column/Check.scss:3 */
+.x-keyboard-mode .x-grid-cell .x-grid-checkcolumn:focus {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/column/Check.scss:6 */
+.x-keyboard-mode .x-grid-cell .x-grid-checkcolumn:focus:after {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/column/Check.scss:15 */
+.x-grid-item-selected .x-grid-checkcolumn:after,
+.x-grid-cell-selected .x-grid-checkcolumn:after {
+    color: #404040;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/menu/Menu.scss:1 */
+.x-menu-item-icon,
+.x-menu-item-icon-right,
+.x-menu-item-arrow {
+    text-align: initial;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/plugin/Editing.scss:3 */
+.x-grid-editor .x-form-text {
+    padding-top: 3px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/plugin/Editing.scss:9 */
+.x-grid-editor .x-form-cb {
+    margin-left: -10px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/plugin/RowEditing.scss:1 */
+.x-grid-row-editor .x-panel-body .x-box-inner {
+    margin-top: 2px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/plugin/RowExpander.scss:1 */
+.x-grid-item-selected .x-grid-row-expander {
+    color: #404040;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/plugin/RowExpander.scss:5 */
+.x-grid-item-focused .x-grid-row-expander {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/plugin/RowExpander.scss:9 */
+.x-grid-row-expander:focus {
+    color: #fff;
+    background: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/grid/plugin/RowExpander.scss:14 */
+.x-grid-row-expander:before {
+    line-height: 26px;
+    text-align: center;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/layout/container/Accordion.scss:1 */
+.x-keyboard-mode .x-accordion-hd-over .x-panel-header-title.x-title-focus {
+    outline: 3px solid #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/resizer/Resizer.scss:1 */
+.x-resizable-proxy {
+    border-width: 2px;
+    border-color: #fff;
+    border-style: dotted;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/slider/Multi.scss:5 */
+.x-ie10p .x-slider-thumb.x-slider-thumb-over {
+    color: #707070;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/slider/Multi.scss:8 */
+.x-ie10p .x-slider-thumb.x-slider-thumb-over:before {
+    position: relative;
+    z-index: 100;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/slider/Multi.scss:17 */
+.x-keyboard-mode .x-slider-focus .x-slider-thumb {
+    border-width: 0px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/slider/Multi.scss:20 */
+.x-keyboard-mode .x-slider-focus .x-slider-thumb.x-slider-thumb-over {
+    background-color: #56b4e9;
+    border-width: 3px;
+    border-color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/tab/Tab.scss:126 */
+.x-tab-default.x-tab-active.x-tab-over {
+    background-color: #bcbcbc;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/tab/Tab.scss:136 */
+.x-tab-default.x-tab-active.x-tab-over .x-tab-inner-default {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/tab/Tab.scss:146 */
+.x-tab-default.x-tab-active.x-tab-over .x-tab-icon-el {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/tab/Tab.scss:156 */
+.x-tab-default.x-tab-active.x-tab-over .x-tab-close-btn {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/tab/Tab.scss:166 */
+.x-keyboard-mode .x-tab-default.x-tab-active.x-tab-over.x-tab-focus {
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/tab/Bar.scss:2 */
+.x-box-scroller-tab-bar-default.x-box-scroller-hover {
+    background-color: #fff !important;
+    color: #686868;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/tab/Bar.scss:7 */
+.x-tab-bar-default-right .x-box-scroller-tab-bar-default {
+    margin-left: -31px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/tab/Bar.scss:11 */
+.x-tab-bar-default-bottom .x-box-scroller-tab-bar-default {
+    margin-top: -31px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:60 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small {
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:64 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after {
+    background: none !important;
+    content: '\f105';
+    font: 16px/1 'Font Awesome 5 Free';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:69 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:74 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:78 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:83 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-over {
+    background-color: #aeaeae;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:87 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:92 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:96 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:100 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after {
+    content: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:106 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active {
+    background-color: #e6e6e6;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:111 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after {
+    background: none !important;
+    content: '\f107';
+    font: 16px/1 'Font Awesome 5 Free';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:116 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:121 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:125 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:129 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after {
+    content: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:134 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed.x-btn-over,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active.x-btn-over {
+    background-color: #cecece;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:138 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:143 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:147 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:155 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:160 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:165 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:169 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:173 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after {
+    content: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:178 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-over,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-over {
+    background-color: #56b4e9;
+    -webkit-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    -moz-box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+    box-shadow: #fff 0 3px 0px 0 inset, #fff 0 -3px 0px 0 inset, #fff -3px 0 0px 0 inset, #fff 3px 0 0px 0 inset;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:184 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:189 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:193 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:199 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active {
+    background-color: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:204 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:209 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:213 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:217 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after {
+    content: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:222 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed.x-btn-over,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active.x-btn-over,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed.x-btn-over,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active.x-btn-over {
+    background-color: #0072b2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:226 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:231 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:235 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:239 */
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-pressed.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after,
+.x-keyboard-mode .x-breadcrumb-btn.x-btn-plain-toolbar-small.x-arrow-focus.x-btn-menu-active.x-btn-over .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after {
+    content: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:247 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-disabled {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:251 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-disabled .x-btn-wrap-plain-toolbar-small.x-btn-arrow:after,
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-disabled .x-btn-wrap-plain-toolbar-small.x-btn-split:after {
+    color: rgba(240, 240, 240, 0.5);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:256 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-disabled .x-btn-wrap-plain-toolbar-small .x-btn-inner-plain-toolbar-small {
+    color: rgba(240, 240, 240, 0.5);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:260 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-disabled .x-btn-wrap-plain-toolbar-small .x-btn-icon-el-plain-toolbar-small {
+    color: rgba(240, 240, 240, 0.5);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/var/toolbar/Breadcrumb.scss:264 */
+.x-breadcrumb-btn.x-btn-plain-toolbar-small.x-btn-disabled .x-btn-wrap-plain-toolbar-small.x-btn-split .x-btn-button:after {
+    content: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/window/Toast.scss:2 */
+.x-toast .x-window-body-default {
+    background-color: #f2f2f2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-graphite/sass/src/window/Toast.scss:6 */
+.x-toast .x-autocontainer-innerCt {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
+.x-tab-navigation-top {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+    padding: 24px 24px 24px 24px;
+    border-width: 0;
+    border-style: solid;
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:237 */
+.x-tab-navigation-top-mc {
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:264 */
+.x-nbr .x-tab-navigation-top {
+    padding: 0 !important;
+    border-width: 0 !important;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 0px;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:281 */
+.x-tab-navigation-top-frameInfo {
+    font-family: th-0-0-0-0-0-0-0-0-24-24-24-24;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:347 */
+.x-tab-navigation-top-tl {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:351 */
+.x-tab-navigation-top-tr {
+    background-position: right 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:355 */
+.x-tab-navigation-top-bl {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:359 */
+.x-tab-navigation-top-br {
+    background-position: right 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:363 */
+.x-tab-navigation-top-ml {
+    background-position: 0 top;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:371 */
+.x-tab-navigation-top-mr {
+    background-position: right top;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:379 */
+.x-tab-navigation-top-tc {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:383 */
+.x-tab-navigation-top-bc {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:388 */
+.x-tab-navigation-top-tr,
+.x-tab-navigation-top-br,
+.x-tab-navigation-top-mr {
+    padding-right: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:394 */
+.x-tab-navigation-top-tl,
+.x-tab-navigation-top-bl,
+.x-tab-navigation-top-ml {
+    padding-left: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:400 */
+.x-tab-navigation-top-tc {
+    height: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:403 */
+.x-tab-navigation-top-bc {
+    height: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:464 */
+.x-tab-navigation-top-mc {
+    padding: 24px 24px 24px 24px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-navigation-top:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, frame:0 0 0 0" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
+.x-tab-navigation-bottom {
+    -moz-border-radius-topleft: 0;
+    -webkit-border-top-left-radius: 0;
+    border-top-left-radius: 0;
+    -moz-border-radius-topright: 0;
+    -webkit-border-top-right-radius: 0;
+    border-top-right-radius: 0;
+    -moz-border-radius-bottomright: 0;
+    -webkit-border-bottom-right-radius: 0;
+    border-bottom-right-radius: 0;
+    -moz-border-radius-bottomleft: 0;
+    -webkit-border-bottom-left-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 24px 24px 24px 24px;
+    border-width: 0 0 0 0;
+    border-style: solid;
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:237 */
+.x-tab-navigation-bottom-mc {
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:264 */
+.x-nbr .x-tab-navigation-bottom {
+    padding: 0 !important;
+    border-width: 0 !important;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 0px;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:281 */
+.x-tab-navigation-bottom-frameInfo {
+    font-family: th-0-0-0-0-0-0-0-0-24-24-24-24;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:347 */
+.x-tab-navigation-bottom-tl {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:351 */
+.x-tab-navigation-bottom-tr {
+    background-position: right 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:355 */
+.x-tab-navigation-bottom-bl {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:359 */
+.x-tab-navigation-bottom-br {
+    background-position: right 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:363 */
+.x-tab-navigation-bottom-ml {
+    background-position: 0 bottom;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:371 */
+.x-tab-navigation-bottom-mr {
+    background-position: right bottom;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:379 */
+.x-tab-navigation-bottom-tc {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:383 */
+.x-tab-navigation-bottom-bc {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:388 */
+.x-tab-navigation-bottom-tr,
+.x-tab-navigation-bottom-br,
+.x-tab-navigation-bottom-mr {
+    padding-right: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:394 */
+.x-tab-navigation-bottom-tl,
+.x-tab-navigation-bottom-bl,
+.x-tab-navigation-bottom-ml {
+    padding-left: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:400 */
+.x-tab-navigation-bottom-tc {
+    height: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:403 */
+.x-tab-navigation-bottom-bc {
+    height: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:464 */
+.x-tab-navigation-bottom-mc {
+    padding: 24px 24px 24px 24px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-navigation-bottom:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, frame:0 0 0 0" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
+.x-tab-navigation-left {
+    -moz-border-radius-topleft: 0;
+    -webkit-border-top-left-radius: 0;
+    border-top-left-radius: 0;
+    -moz-border-radius-topright: 0;
+    -webkit-border-top-right-radius: 0;
+    border-top-right-radius: 0;
+    -moz-border-radius-bottomright: 0;
+    -webkit-border-bottom-right-radius: 0;
+    border-bottom-right-radius: 0;
+    -moz-border-radius-bottomleft: 0;
+    -webkit-border-bottom-left-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 24px 24px 24px 24px;
+    border-width: 0 0 0 0;
+    border-style: solid;
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:237 */
+.x-tab-navigation-left-mc {
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:264 */
+.x-nbr .x-tab-navigation-left {
+    padding: 0 !important;
+    border-width: 0 !important;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 0px;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:281 */
+.x-tab-navigation-left-frameInfo {
+    font-family: th-0-0-0-0-0-0-0-0-24-24-24-24;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:347 */
+.x-tab-navigation-left-tl {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:351 */
+.x-tab-navigation-left-tr {
+    background-position: right 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:355 */
+.x-tab-navigation-left-bl {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:359 */
+.x-tab-navigation-left-br {
+    background-position: right 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:363 */
+.x-tab-navigation-left-ml {
+    background-position: 0 top;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:371 */
+.x-tab-navigation-left-mr {
+    background-position: right top;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:379 */
+.x-tab-navigation-left-tc {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:383 */
+.x-tab-navigation-left-bc {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:388 */
+.x-tab-navigation-left-tr,
+.x-tab-navigation-left-br,
+.x-tab-navigation-left-mr {
+    padding-right: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:394 */
+.x-tab-navigation-left-tl,
+.x-tab-navigation-left-bl,
+.x-tab-navigation-left-ml {
+    padding-left: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:400 */
+.x-tab-navigation-left-tc {
+    height: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:403 */
+.x-tab-navigation-left-bc {
+    height: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:464 */
+.x-tab-navigation-left-mc {
+    padding: 24px 24px 24px 24px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-navigation-left:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, frame:0 0 0 0" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:187 */
+.x-tab-navigation-right {
+    -moz-border-radius-topleft: 0;
+    -webkit-border-top-left-radius: 0;
+    border-top-left-radius: 0;
+    -moz-border-radius-topright: 0;
+    -webkit-border-top-right-radius: 0;
+    border-top-right-radius: 0;
+    -moz-border-radius-bottomright: 0;
+    -webkit-border-bottom-right-radius: 0;
+    border-bottom-right-radius: 0;
+    -moz-border-radius-bottomleft: 0;
+    -webkit-border-bottom-left-radius: 0;
+    border-bottom-left-radius: 0;
+    padding: 24px 24px 24px 24px;
+    border-width: 0 0 0 0;
+    border-style: solid;
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:237 */
+.x-tab-navigation-right-mc {
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:264 */
+.x-nbr .x-tab-navigation-right {
+    padding: 0 !important;
+    border-width: 0 !important;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 0px;
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:281 */
+.x-tab-navigation-right-frameInfo {
+    font-family: th-0-0-0-0-0-0-0-0-24-24-24-24;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:347 */
+.x-tab-navigation-right-tl {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:351 */
+.x-tab-navigation-right-tr {
+    background-position: right 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:355 */
+.x-tab-navigation-right-bl {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:359 */
+.x-tab-navigation-right-br {
+    background-position: right 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:363 */
+.x-tab-navigation-right-ml {
+    background-position: 0 top;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:371 */
+.x-tab-navigation-right-mr {
+    background-position: right top;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:379 */
+.x-tab-navigation-right-tc {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:383 */
+.x-tab-navigation-right-bc {
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:388 */
+.x-tab-navigation-right-tr,
+.x-tab-navigation-right-br,
+.x-tab-navigation-right-mr {
+    padding-right: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:394 */
+.x-tab-navigation-right-tl,
+.x-tab-navigation-right-bl,
+.x-tab-navigation-right-ml {
+    padding-left: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:400 */
+.x-tab-navigation-right-tc {
+    height: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:403 */
+.x-tab-navigation-right-bc {
+    height: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/frame.scss:464 */
+.x-tab-navigation-right-mc {
+    padding: 24px 24px 24px 24px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-navigation-right:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, frame:0 0 0 0" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2672 */
+.x-tab-navigation {
+    border-color: #686868;
+    cursor: pointer;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+    opacity: 0.8;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2685 */
+.x-ie8 .x-tab-navigation.x-tab-rotate-left {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80),progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2691 */
+.x-ie8 .x-tab-navigation.x-tab-rotate-right {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80),progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2731 */
+.x-tab-navigation-top {
+    margin: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2735 */
+.x-tab-navigation-top.x-rtl {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2740 */
+.x-tab-navigation-top.x-tab-rotate-left {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2744 */
+.x-tab-navigation-top.x-tab-rotate-left.x-rtl {
+    margin: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2763 */
+.x-keyboard-mode .x-tab-navigation-top.x-tab-focus {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2794 */
+.x-keyboard-mode .x-tab-navigation-top.x-tab-focus.x-tab-over {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2825 */
+.x-keyboard-mode .x-tab-navigation-top.x-tab-focus.x-tab-active {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2852 */
+.x-tab-navigation-right {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2856 */
+.x-tab-navigation-right.x-rtl {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2861 */
+.x-tab-navigation-right.x-tab-rotate-right {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2865 */
+.x-tab-navigation-right.x-tab-rotate-right.x-rtl {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2884 */
+.x-keyboard-mode .x-tab-navigation-right.x-tab-focus {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2915 */
+.x-keyboard-mode .x-tab-navigation-right.x-tab-focus.x-tab-over {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2946 */
+.x-keyboard-mode .x-tab-navigation-right.x-tab-focus.x-tab-active {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2973 */
+.x-tab-navigation-bottom {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2977 */
+.x-tab-navigation-bottom.x-rtl {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2982 */
+.x-tab-navigation-bottom.x-tab-rotate-left {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:2986 */
+.x-tab-navigation-bottom.x-tab-rotate-left.x-rtl {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3005 */
+.x-keyboard-mode .x-tab-navigation-bottom.x-tab-focus {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3036 */
+.x-keyboard-mode .x-tab-navigation-bottom.x-tab-focus.x-tab-over {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3067 */
+.x-keyboard-mode .x-tab-navigation-bottom.x-tab-focus.x-tab-active {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3094 */
+.x-tab-navigation-left {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3098 */
+.x-tab-navigation-left.x-rtl {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3103 */
+.x-tab-navigation-left.x-tab-rotate-right {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3107 */
+.x-tab-navigation-left.x-tab-rotate-right.x-rtl {
+    margin: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3126 */
+.x-keyboard-mode .x-tab-navigation-left.x-tab-focus {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3157 */
+.x-keyboard-mode .x-tab-navigation-left.x-tab-focus.x-tab-over {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3188 */
+.x-keyboard-mode .x-tab-navigation-left.x-tab-focus.x-tab-active {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3215 */
+.x-tab-button-navigation {
+    height: 24px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3220 */
+.x-tab-inner-navigation {
+    font: bold 15px/19px 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    color: #acacac;
+    max-width: 100%;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3236 */
+.x-tab-icon-right > .x-tab-inner-navigation,
+.x-tab-icon-left > .x-tab-inner-navigation {
+    max-width: calc(100% - 24px);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3244 */
+.x-tab-icon-el-navigation {
+    min-height: 24px;
+    background-position: center center;
+    font-size: 24px;
+    line-height: 24px;
+    color: #acacac;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3245 */
+.x-tab-icon-left > .x-tab-icon-el-navigation,
+.x-tab-icon-right > .x-tab-icon-el-navigation {
+    width: 24px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3250 */
+.x-tab-icon-top > .x-tab-icon-el-navigation,
+.x-tab-icon-bottom > .x-tab-icon-el-navigation {
+    min-width: 24px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3261 */
+.x-tab-bar-plain .x-tab-icon-el-navigation {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3286 */
+.x-tab-text.x-tab-icon-left > .x-tab-icon-el-navigation {
+    margin-right: 5px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3290 */
+.x-tab-text.x-tab-icon-left > .x-tab-icon-el-navigation.x-rtl {
+    margin-right: 0;
+    margin-left: 5px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3297 */
+.x-tab-text.x-tab-icon-right > .x-tab-icon-el-navigation {
+    margin-left: 5px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3301 */
+.x-tab-text.x-tab-icon-right > .x-tab-icon-el-navigation.x-rtl {
+    margin-left: 0;
+    margin-right: 5px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3308 */
+.x-tab-text.x-tab-icon-top > .x-tab-icon-el-navigation {
+    margin-bottom: 5px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3312 */
+.x-tab-text.x-tab-icon-bottom > .x-tab-icon-el-navigation {
+    margin-top: 5px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3318 */
+.x-keyboard-mode .x-tab-focus.x-tab-navigation {
+    border-color: #56b4e9;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    opacity: 1;
+    background-color: transparent;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3389 */
+.x-keyboard-mode .x-tab-bar-plain .x-tab-focus.x-tab-navigation {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3398 */
+.x-keyboard-mode .x-tab-bar-plain .x-tab-focus.x-tab-navigation .x-tab-inner-navigation {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3404 */
+.x-keyboard-mode .x-tab-bar-plain .x-tab-focus.x-tab-navigation .x-tab-icon-el {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3415 */
+.x-keyboard-mode.x-ie8 .x-tab-focus.x-tab-navigation.x-tab-rotate-left {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100),progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3419 */
+.x-keyboard-mode.x-ie8 .x-tab-focus.x-tab-navigation.x-tab-rotate-right {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100),progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3428 */
+.x-keyboard-mode.x-ie8 .x-tab-focus.x-tab-navigation.x-tab-rotate-left {
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3432 */
+.x-keyboard-mode.x-ie8 .x-tab-focus.x-tab-navigation.x-tab-rotate-right {
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3454 */
+.x-tab-over.x-tab-navigation {
+    border-color: #fff;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    opacity: 1;
+    background-image: none;
+    background-color: rgba(80, 80, 80, 0.7);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3462 */
+.x-ie8 .x-tab-over.x-tab-navigation.x-tab-rotate-left {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100),progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3468 */
+.x-ie8 .x-tab-over.x-tab-navigation.x-tab-rotate-right {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100),progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/background-opacity.scss:19 */
+.x-ie8 .x-tab-over.x-tab-navigation {
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#b3505050, endColorstr=#b3505050)";
+    zoom: 1;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3483 */
+.x-ie8 .x-tab-over.x-tab-navigation.x-tab-rotate-left {
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3489 */
+.x-ie8 .x-tab-over.x-tab-navigation.x-tab-rotate-right {
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3499 */
+.x-tab-bar-plain .x-tab-over.x-tab-navigation {
+    background-color: #686868;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3510 */
+.x-tab-over.x-tab-navigation .x-tab-inner-navigation {
+    color: #c4c4c4;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3515 */
+.x-tab-bar-plain .x-tab-over.x-tab-navigation .x-tab-inner-navigation {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3530 */
+.x-tab-over.x-tab-navigation .x-tab-icon-el {
+    color: #c4c4c4;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3539 */
+.x-ie8m .x-tab-over.x-tab-navigation .x-tab-icon-el {
+    color: #c4c4c4;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3546 */
+.x-tab-bar-plain .x-tab-over.x-tab-navigation .x-tab-icon-el {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3567 */
+.x-keyboard-mode .x-tab-focus.x-tab-over.x-tab-navigation {
+    border-color: #fff;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    opacity: 1;
+    background-image: none;
+    background-color: #505050;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/background-opacity.scss:19 */
+.x-ie8 .x-keyboard-mode .x-tab-focus.x-tab-over.x-tab-navigation {
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff505050, endColorstr=#ff505050)";
+    zoom: 1;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3603 */
+.x-keyboard-mode .x-tab-bar-plain .x-tab-focus.x-tab-over.x-tab-navigation {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3612 */
+.x-keyboard-mode .x-tab-bar-plain .x-tab-focus.x-tab-over.x-tab-navigation .x-tab-inner-navigation {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3618 */
+.x-keyboard-mode .x-tab-bar-plain .x-tab-focus.x-tab-over.x-tab-navigation .x-tab-icon-el {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3629 */
+.x-keyboard-mode.x-ie8 .x-tab-focus.x-tab-over.x-tab-navigation.x-tab-rotate-left {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100),progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3633 */
+.x-keyboard-mode.x-ie8 .x-tab-focus.x-tab-over.x-tab-navigation.x-tab-rotate-right {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100),progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3642 */
+.x-keyboard-mode.x-ie8 .x-tab-focus.x-tab-over.x-tab-navigation.x-tab-rotate-left {
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3646 */
+.x-keyboard-mode.x-ie8 .x-tab-focus.x-tab-over.x-tab-navigation.x-tab-rotate-right {
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3685 */
+.x-tab.x-tab-active.x-tab-navigation {
+    border-color: #f2f2f2;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    opacity: 1;
+    background-image: none;
+    background-color: #303030;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3693 */
+.x-ie8 .x-tab.x-tab-active.x-tab-navigation.x-tab-rotate-left {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100),progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3699 */
+.x-ie8 .x-tab.x-tab-active.x-tab-navigation.x-tab-rotate-right {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100),progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/background-opacity.scss:19 */
+.x-ie8 .x-tab.x-tab-active.x-tab-navigation {
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff303030, endColorstr=#ff303030)";
+    zoom: 1;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3714 */
+.x-ie8 .x-tab.x-tab-active.x-tab-navigation.x-tab-rotate-left {
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3720 */
+.x-ie8 .x-tab.x-tab-active.x-tab-navigation.x-tab-rotate-right {
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3730 */
+.x-tab-bar-plain .x-tab.x-tab-active.x-tab-navigation {
+    background-color: #f2f2f2;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3741 */
+.x-tab.x-tab-active.x-tab-navigation .x-tab-inner-navigation {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3746 */
+.x-tab-bar-plain .x-tab.x-tab-active.x-tab-navigation .x-tab-inner-navigation {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3761 */
+.x-tab.x-tab-active.x-tab-navigation .x-tab-icon-el {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3769 */
+.x-ie8 .x-tab.x-tab-active.x-tab-navigation .x-tab-icon-el {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3775 */
+.x-tab-bar-plain .x-tab.x-tab-active.x-tab-navigation .x-tab-icon-el {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3797 */
+.x-keyboard-mode .x-tab-focus.x-tab-active.x-tab-navigation {
+    border-color: #f2f2f2;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    opacity: 1;
+    background-image: none;
+    background-color: #303030;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/background-opacity.scss:19 */
+.x-ie8 .x-keyboard-mode .x-tab-focus.x-tab-active.x-tab-navigation {
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff303030, endColorstr=#ff303030)";
+    zoom: 1;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3833 */
+.x-keyboard-mode .x-tab-bar-plain .x-tab-focus.x-tab-active.x-tab-navigation {
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3859 */
+.x-keyboard-mode.x-ie8 .x-tab-focus.x-tab-active.x-tab-navigation.x-tab-rotate-left {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100),progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3863 */
+.x-keyboard-mode.x-ie8 .x-tab-focus.x-tab-active.x-tab-navigation.x-tab-rotate-right {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100),progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3872 */
+.x-keyboard-mode.x-ie8 .x-tab-focus.x-tab-active.x-tab-navigation.x-tab-rotate-left {
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3876 */
+.x-keyboard-mode.x-ie8 .x-tab-focus.x-tab-active.x-tab-navigation.x-tab-rotate-right {
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3916 */
+.x-tab.x-tab-disabled.x-tab-navigation {
+    border-color: #686868;
+    background-color: transparent;
+    cursor: default;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3945 */
+.x-ie8 .x-tab.x-tab-disabled.x-tab-navigation.x-tab-rotate-left {
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=3)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3951 */
+.x-ie8 .x-tab.x-tab-disabled.x-tab-navigation.x-tab-rotate-right {
+    -ms-filter: "progid:DXImageTransform.Microsoft.BasicImage(rotation=1)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3976 */
+.x-tab.x-tab-disabled.x-tab-navigation .x-tab-inner-navigation {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    opacity: 0.5;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:3981 */
+.x-tab-bar-plain .x-tab.x-tab-disabled.x-tab-navigation .x-tab-inner-navigation {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4000 */
+.x-tab.x-tab-disabled.x-tab-navigation .x-tab-icon-el-navigation {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    opacity: 0.5;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4005 */
+.x-tab.x-tab-disabled.x-tab-navigation .x-tab-icon-el {
+    color: #acacac;
+    opacity: 0.5;
+    filter: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4026 */
+.x-tab-bar-plain .x-tab.x-tab-disabled.x-tab-navigation .x-tab-icon-el {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4046 */
+.x-nbr .x-tab-navigation {
+    background-image: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-over .x-tab-navigation-top-tl,
+.x-tab-over .x-tab-navigation-top-bl,
+.x-tab-over .x-tab-navigation-top-tr,
+.x-tab-over .x-tab-navigation-top-br,
+.x-tab-over .x-tab-navigation-top-tc,
+.x-tab-over .x-tab-navigation-top-bc {
+    background-image: url(images/tab/tab-navigation-top-over-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-over .x-tab-navigation-top-ml,
+.x-tab-over .x-tab-navigation-top-mr {
+    background-image: url(images/tab/tab-navigation-top-over-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-over .x-tab-navigation-top-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-top-over-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus .x-tab-navigation-top-tl,
+.x-tab-focus .x-tab-navigation-top-bl,
+.x-tab-focus .x-tab-navigation-top-tr,
+.x-tab-focus .x-tab-navigation-top-br,
+.x-tab-focus .x-tab-navigation-top-tc,
+.x-tab-focus .x-tab-navigation-top-bc {
+    background-image: url(images/tab/tab-navigation-top-focus-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus .x-tab-navigation-top-ml,
+.x-tab-focus .x-tab-navigation-top-mr {
+    background-image: url(images/tab/tab-navigation-top-focus-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus .x-tab-navigation-top-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-top-focus-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus.x-tab-over .x-tab-navigation-top-tl,
+.x-tab-focus.x-tab-over .x-tab-navigation-top-bl,
+.x-tab-focus.x-tab-over .x-tab-navigation-top-tr,
+.x-tab-focus.x-tab-over .x-tab-navigation-top-br,
+.x-tab-focus.x-tab-over .x-tab-navigation-top-tc,
+.x-tab-focus.x-tab-over .x-tab-navigation-top-bc {
+    background-image: url(images/tab/tab-navigation-top-focus-over-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus.x-tab-over .x-tab-navigation-top-ml,
+.x-tab-focus.x-tab-over .x-tab-navigation-top-mr {
+    background-image: url(images/tab/tab-navigation-top-focus-over-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus.x-tab-over .x-tab-navigation-top-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-top-focus-over-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab.x-tab-active .x-tab-navigation-top-tl,
+.x-tab.x-tab-active .x-tab-navigation-top-bl,
+.x-tab.x-tab-active .x-tab-navigation-top-tr,
+.x-tab.x-tab-active .x-tab-navigation-top-br,
+.x-tab.x-tab-active .x-tab-navigation-top-tc,
+.x-tab.x-tab-active .x-tab-navigation-top-bc {
+    background-image: url(images/tab/tab-navigation-top-active-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab.x-tab-active .x-tab-navigation-top-ml,
+.x-tab.x-tab-active .x-tab-navigation-top-mr {
+    background-image: url(images/tab/tab-navigation-top-active-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab.x-tab-active .x-tab-navigation-top-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-top-active-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus.x-tab-active .x-tab-navigation-top-tl,
+.x-tab-focus.x-tab-active .x-tab-navigation-top-bl,
+.x-tab-focus.x-tab-active .x-tab-navigation-top-tr,
+.x-tab-focus.x-tab-active .x-tab-navigation-top-br,
+.x-tab-focus.x-tab-active .x-tab-navigation-top-tc,
+.x-tab-focus.x-tab-active .x-tab-navigation-top-bc {
+    background-image: url(images/tab/tab-navigation-top-focus-active-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus.x-tab-active .x-tab-navigation-top-ml,
+.x-tab-focus.x-tab-active .x-tab-navigation-top-mr {
+    background-image: url(images/tab/tab-navigation-top-focus-active-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus.x-tab-active .x-tab-navigation-top-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-top-focus-active-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab.x-tab-disabled .x-tab-navigation-top-tl,
+.x-tab.x-tab-disabled .x-tab-navigation-top-bl,
+.x-tab.x-tab-disabled .x-tab-navigation-top-tr,
+.x-tab.x-tab-disabled .x-tab-navigation-top-br,
+.x-tab.x-tab-disabled .x-tab-navigation-top-tc,
+.x-tab.x-tab-disabled .x-tab-navigation-top-bc {
+    background-image: url(images/tab/tab-navigation-top-disabled-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab.x-tab-disabled .x-tab-navigation-top-ml,
+.x-tab.x-tab-disabled .x-tab-navigation-top-mr {
+    background-image: url(images/tab/tab-navigation-top-disabled-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab.x-tab-disabled .x-tab-navigation-top-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-top-disabled-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-over .x-tab-navigation-right-tl,
+.x-tab-over .x-tab-navigation-right-bl,
+.x-tab-over .x-tab-navigation-right-tr,
+.x-tab-over .x-tab-navigation-right-br,
+.x-tab-over .x-tab-navigation-right-tc,
+.x-tab-over .x-tab-navigation-right-bc {
+    background-image: url(images/tab/tab-navigation-right-over-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-over .x-tab-navigation-right-ml,
+.x-tab-over .x-tab-navigation-right-mr {
+    background-image: url(images/tab/tab-navigation-right-over-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-over .x-tab-navigation-right-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-right-over-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus .x-tab-navigation-right-tl,
+.x-tab-focus .x-tab-navigation-right-bl,
+.x-tab-focus .x-tab-navigation-right-tr,
+.x-tab-focus .x-tab-navigation-right-br,
+.x-tab-focus .x-tab-navigation-right-tc,
+.x-tab-focus .x-tab-navigation-right-bc {
+    background-image: url(images/tab/tab-navigation-right-focus-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus .x-tab-navigation-right-ml,
+.x-tab-focus .x-tab-navigation-right-mr {
+    background-image: url(images/tab/tab-navigation-right-focus-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus .x-tab-navigation-right-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-right-focus-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus.x-tab-over .x-tab-navigation-right-tl,
+.x-tab-focus.x-tab-over .x-tab-navigation-right-bl,
+.x-tab-focus.x-tab-over .x-tab-navigation-right-tr,
+.x-tab-focus.x-tab-over .x-tab-navigation-right-br,
+.x-tab-focus.x-tab-over .x-tab-navigation-right-tc,
+.x-tab-focus.x-tab-over .x-tab-navigation-right-bc {
+    background-image: url(images/tab/tab-navigation-right-focus-over-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus.x-tab-over .x-tab-navigation-right-ml,
+.x-tab-focus.x-tab-over .x-tab-navigation-right-mr {
+    background-image: url(images/tab/tab-navigation-right-focus-over-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus.x-tab-over .x-tab-navigation-right-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-right-focus-over-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab.x-tab-active .x-tab-navigation-right-tl,
+.x-tab.x-tab-active .x-tab-navigation-right-bl,
+.x-tab.x-tab-active .x-tab-navigation-right-tr,
+.x-tab.x-tab-active .x-tab-navigation-right-br,
+.x-tab.x-tab-active .x-tab-navigation-right-tc,
+.x-tab.x-tab-active .x-tab-navigation-right-bc {
+    background-image: url(images/tab/tab-navigation-right-active-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab.x-tab-active .x-tab-navigation-right-ml,
+.x-tab.x-tab-active .x-tab-navigation-right-mr {
+    background-image: url(images/tab/tab-navigation-right-active-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab.x-tab-active .x-tab-navigation-right-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-right-active-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus.x-tab-active .x-tab-navigation-right-tl,
+.x-tab-focus.x-tab-active .x-tab-navigation-right-bl,
+.x-tab-focus.x-tab-active .x-tab-navigation-right-tr,
+.x-tab-focus.x-tab-active .x-tab-navigation-right-br,
+.x-tab-focus.x-tab-active .x-tab-navigation-right-tc,
+.x-tab-focus.x-tab-active .x-tab-navigation-right-bc {
+    background-image: url(images/tab/tab-navigation-right-focus-active-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus.x-tab-active .x-tab-navigation-right-ml,
+.x-tab-focus.x-tab-active .x-tab-navigation-right-mr {
+    background-image: url(images/tab/tab-navigation-right-focus-active-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus.x-tab-active .x-tab-navigation-right-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-right-focus-active-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab.x-tab-disabled .x-tab-navigation-right-tl,
+.x-tab.x-tab-disabled .x-tab-navigation-right-bl,
+.x-tab.x-tab-disabled .x-tab-navigation-right-tr,
+.x-tab.x-tab-disabled .x-tab-navigation-right-br,
+.x-tab.x-tab-disabled .x-tab-navigation-right-tc,
+.x-tab.x-tab-disabled .x-tab-navigation-right-bc {
+    background-image: url(images/tab/tab-navigation-right-disabled-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab.x-tab-disabled .x-tab-navigation-right-ml,
+.x-tab.x-tab-disabled .x-tab-navigation-right-mr {
+    background-image: url(images/tab/tab-navigation-right-disabled-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab.x-tab-disabled .x-tab-navigation-right-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-right-disabled-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-over .x-tab-navigation-bottom-tl,
+.x-tab-over .x-tab-navigation-bottom-bl,
+.x-tab-over .x-tab-navigation-bottom-tr,
+.x-tab-over .x-tab-navigation-bottom-br,
+.x-tab-over .x-tab-navigation-bottom-tc,
+.x-tab-over .x-tab-navigation-bottom-bc {
+    background-image: url(images/tab/tab-navigation-bottom-over-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-over .x-tab-navigation-bottom-ml,
+.x-tab-over .x-tab-navigation-bottom-mr {
+    background-image: url(images/tab/tab-navigation-bottom-over-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-over .x-tab-navigation-bottom-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-bottom-over-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus .x-tab-navigation-bottom-tl,
+.x-tab-focus .x-tab-navigation-bottom-bl,
+.x-tab-focus .x-tab-navigation-bottom-tr,
+.x-tab-focus .x-tab-navigation-bottom-br,
+.x-tab-focus .x-tab-navigation-bottom-tc,
+.x-tab-focus .x-tab-navigation-bottom-bc {
+    background-image: url(images/tab/tab-navigation-bottom-focus-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus .x-tab-navigation-bottom-ml,
+.x-tab-focus .x-tab-navigation-bottom-mr {
+    background-image: url(images/tab/tab-navigation-bottom-focus-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus .x-tab-navigation-bottom-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-bottom-focus-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus.x-tab-over .x-tab-navigation-bottom-tl,
+.x-tab-focus.x-tab-over .x-tab-navigation-bottom-bl,
+.x-tab-focus.x-tab-over .x-tab-navigation-bottom-tr,
+.x-tab-focus.x-tab-over .x-tab-navigation-bottom-br,
+.x-tab-focus.x-tab-over .x-tab-navigation-bottom-tc,
+.x-tab-focus.x-tab-over .x-tab-navigation-bottom-bc {
+    background-image: url(images/tab/tab-navigation-bottom-focus-over-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus.x-tab-over .x-tab-navigation-bottom-ml,
+.x-tab-focus.x-tab-over .x-tab-navigation-bottom-mr {
+    background-image: url(images/tab/tab-navigation-bottom-focus-over-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus.x-tab-over .x-tab-navigation-bottom-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-bottom-focus-over-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab.x-tab-active .x-tab-navigation-bottom-tl,
+.x-tab.x-tab-active .x-tab-navigation-bottom-bl,
+.x-tab.x-tab-active .x-tab-navigation-bottom-tr,
+.x-tab.x-tab-active .x-tab-navigation-bottom-br,
+.x-tab.x-tab-active .x-tab-navigation-bottom-tc,
+.x-tab.x-tab-active .x-tab-navigation-bottom-bc {
+    background-image: url(images/tab/tab-navigation-bottom-active-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab.x-tab-active .x-tab-navigation-bottom-ml,
+.x-tab.x-tab-active .x-tab-navigation-bottom-mr {
+    background-image: url(images/tab/tab-navigation-bottom-active-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab.x-tab-active .x-tab-navigation-bottom-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-bottom-active-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus.x-tab-active .x-tab-navigation-bottom-tl,
+.x-tab-focus.x-tab-active .x-tab-navigation-bottom-bl,
+.x-tab-focus.x-tab-active .x-tab-navigation-bottom-tr,
+.x-tab-focus.x-tab-active .x-tab-navigation-bottom-br,
+.x-tab-focus.x-tab-active .x-tab-navigation-bottom-tc,
+.x-tab-focus.x-tab-active .x-tab-navigation-bottom-bc {
+    background-image: url(images/tab/tab-navigation-bottom-focus-active-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus.x-tab-active .x-tab-navigation-bottom-ml,
+.x-tab-focus.x-tab-active .x-tab-navigation-bottom-mr {
+    background-image: url(images/tab/tab-navigation-bottom-focus-active-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus.x-tab-active .x-tab-navigation-bottom-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-bottom-focus-active-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab.x-tab-disabled .x-tab-navigation-bottom-tl,
+.x-tab.x-tab-disabled .x-tab-navigation-bottom-bl,
+.x-tab.x-tab-disabled .x-tab-navigation-bottom-tr,
+.x-tab.x-tab-disabled .x-tab-navigation-bottom-br,
+.x-tab.x-tab-disabled .x-tab-navigation-bottom-tc,
+.x-tab.x-tab-disabled .x-tab-navigation-bottom-bc {
+    background-image: url(images/tab/tab-navigation-bottom-disabled-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab.x-tab-disabled .x-tab-navigation-bottom-ml,
+.x-tab.x-tab-disabled .x-tab-navigation-bottom-mr {
+    background-image: url(images/tab/tab-navigation-bottom-disabled-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab.x-tab-disabled .x-tab-navigation-bottom-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-bottom-disabled-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-over .x-tab-navigation-left-tl,
+.x-tab-over .x-tab-navigation-left-bl,
+.x-tab-over .x-tab-navigation-left-tr,
+.x-tab-over .x-tab-navigation-left-br,
+.x-tab-over .x-tab-navigation-left-tc,
+.x-tab-over .x-tab-navigation-left-bc {
+    background-image: url(images/tab/tab-navigation-left-over-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-over .x-tab-navigation-left-ml,
+.x-tab-over .x-tab-navigation-left-mr {
+    background-image: url(images/tab/tab-navigation-left-over-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-over .x-tab-navigation-left-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-left-over-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus .x-tab-navigation-left-tl,
+.x-tab-focus .x-tab-navigation-left-bl,
+.x-tab-focus .x-tab-navigation-left-tr,
+.x-tab-focus .x-tab-navigation-left-br,
+.x-tab-focus .x-tab-navigation-left-tc,
+.x-tab-focus .x-tab-navigation-left-bc {
+    background-image: url(images/tab/tab-navigation-left-focus-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus .x-tab-navigation-left-ml,
+.x-tab-focus .x-tab-navigation-left-mr {
+    background-image: url(images/tab/tab-navigation-left-focus-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus .x-tab-navigation-left-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-left-focus-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus.x-tab-over .x-tab-navigation-left-tl,
+.x-tab-focus.x-tab-over .x-tab-navigation-left-bl,
+.x-tab-focus.x-tab-over .x-tab-navigation-left-tr,
+.x-tab-focus.x-tab-over .x-tab-navigation-left-br,
+.x-tab-focus.x-tab-over .x-tab-navigation-left-tc,
+.x-tab-focus.x-tab-over .x-tab-navigation-left-bc {
+    background-image: url(images/tab/tab-navigation-left-focus-over-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus.x-tab-over .x-tab-navigation-left-ml,
+.x-tab-focus.x-tab-over .x-tab-navigation-left-mr {
+    background-image: url(images/tab/tab-navigation-left-focus-over-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus.x-tab-over .x-tab-navigation-left-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-left-focus-over-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab.x-tab-active .x-tab-navigation-left-tl,
+.x-tab.x-tab-active .x-tab-navigation-left-bl,
+.x-tab.x-tab-active .x-tab-navigation-left-tr,
+.x-tab.x-tab-active .x-tab-navigation-left-br,
+.x-tab.x-tab-active .x-tab-navigation-left-tc,
+.x-tab.x-tab-active .x-tab-navigation-left-bc {
+    background-image: url(images/tab/tab-navigation-left-active-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab.x-tab-active .x-tab-navigation-left-ml,
+.x-tab.x-tab-active .x-tab-navigation-left-mr {
+    background-image: url(images/tab/tab-navigation-left-active-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab.x-tab-active .x-tab-navigation-left-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-left-active-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab-focus.x-tab-active .x-tab-navigation-left-tl,
+.x-tab-focus.x-tab-active .x-tab-navigation-left-bl,
+.x-tab-focus.x-tab-active .x-tab-navigation-left-tr,
+.x-tab-focus.x-tab-active .x-tab-navigation-left-br,
+.x-tab-focus.x-tab-active .x-tab-navigation-left-tc,
+.x-tab-focus.x-tab-active .x-tab-navigation-left-bc {
+    background-image: url(images/tab/tab-navigation-left-focus-active-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab-focus.x-tab-active .x-tab-navigation-left-ml,
+.x-tab-focus.x-tab-active .x-tab-navigation-left-mr {
+    background-image: url(images/tab/tab-navigation-left-focus-active-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab-focus.x-tab-active .x-tab-navigation-left-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-left-focus-active-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4065 */
+.x-tab.x-tab-disabled .x-tab-navigation-left-tl,
+.x-tab.x-tab-disabled .x-tab-navigation-left-bl,
+.x-tab.x-tab-disabled .x-tab-navigation-left-tr,
+.x-tab.x-tab-disabled .x-tab-navigation-left-br,
+.x-tab.x-tab-disabled .x-tab-navigation-left-tc,
+.x-tab.x-tab-disabled .x-tab-navigation-left-bc {
+    background-image: url(images/tab/tab-navigation-left-disabled-corners.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4074 */
+.x-tab.x-tab-disabled .x-tab-navigation-left-ml,
+.x-tab.x-tab-disabled .x-tab-navigation-left-mr {
+    background-image: url(images/tab/tab-navigation-left-disabled-sides.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4079 */
+.x-tab.x-tab-disabled .x-tab-navigation-left-mc {
+    background-repeat: repeat-x;
+    background-image: url(images/tab/tab-navigation-left-disabled-fbg.gif);
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4089 */
+.x-tab-navigation-tl,
+.x-tab-navigation-bl,
+.x-tab-navigation-tr,
+.x-tab-navigation-br {
+    -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF)";
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4099 */
+.x-tab-navigation .x-tab-close-btn {
+    top: 0;
+    right: 0;
+    width: 16px;
+    height: 16px;
+    font: 12px/1 'Font Awesome 5 Free';
+    color: #fff;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+    opacity: 0.8;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/etc/mixins/font-icon.scss:132 */
+.x-tab-navigation .x-tab-close-btn:before {
+    content: '\f00d';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4121 */
+.x-tab-navigation .x-tab-close-btn-over {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    opacity: 1;
+    background-position: -16px 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4131 */
+.x-tab-navigation .x-tab-close-btn-pressed {
+    background-position: -32px 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4139 */
+.x-keyboard-mode .x-tab-navigation.x-tab-focus .x-tab-close-btn {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4156 */
+.x-tab-navigation.x-tab-over .x-tab-close-btn {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4160 */
+.x-tab-bar-plain .x-tab-navigation.x-tab-over .x-tab-close-btn {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4171 */
+.x-keyboard-mode .x-tab-navigation.x-tab-focus.x-tab-over .x-tab-close-btn {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4188 */
+.x-tab-navigation.x-tab-active .x-tab-close-btn {
+    color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4219 */
+.x-keyboard-mode .x-tab-navigation.x-tab-focus.x-tab-active .x-tab-close-btn {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4235 */
+.x-tab-navigation.x-tab-disabled .x-tab-close-btn {
+    color: #fff;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    opacity: 0.5;
+    background-position: 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4256 */
+.x-rtl.x-tab-navigation .x-tab-close-btn {
+    right: auto;
+    left: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4262 */
+.x-tab-closable.x-tab-navigation .x-tab-button {
+    padding-right: 16px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Tab.scss:4267 */
+.x-rtl.x-tab-closable.x-tab-navigation .x-tab-button {
+    padding-right: 0px;
+    padding-left: 16px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-focus.x-tab-navigation-top:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-top-focus-corners.gif), sides:url(images/tab/tab-navigation-top-focus-sides.gif), frame-bg:url(images/tab/tab-navigation-top-focus-fbg.gif), frame:0 0 0 0, stretch:bottom" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-focus.x-tab-navigation-right:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-right-focus-corners.gif), sides:url(images/tab/tab-navigation-right-focus-sides.gif), frame-bg:url(images/tab/tab-navigation-right-focus-fbg.gif), frame:0 0 0 0, stretch:left" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-focus.x-tab-navigation-bottom:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-bottom-focus-corners.gif), sides:url(images/tab/tab-navigation-bottom-focus-sides.gif), frame-bg:url(images/tab/tab-navigation-bottom-focus-fbg.gif), frame:0 0 0 0, stretch:top" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-focus.x-tab-navigation-left:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-left-focus-corners.gif), sides:url(images/tab/tab-navigation-left-focus-sides.gif), frame-bg:url(images/tab/tab-navigation-left-focus-fbg.gif), frame:0 0 0 0, stretch:right" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-over.x-tab-navigation-top:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-top-over-corners.gif), sides:url(images/tab/tab-navigation-top-over-sides.gif), frame-bg:url(images/tab/tab-navigation-top-over-fbg.gif), frame:0 0 0 0, stretch:bottom" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-over.x-tab-navigation-right:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-right-over-corners.gif), sides:url(images/tab/tab-navigation-right-over-sides.gif), frame-bg:url(images/tab/tab-navigation-right-over-fbg.gif), frame:0 0 0 0, stretch:left" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-over.x-tab-navigation-bottom:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-bottom-over-corners.gif), sides:url(images/tab/tab-navigation-bottom-over-sides.gif), frame-bg:url(images/tab/tab-navigation-bottom-over-fbg.gif), frame:0 0 0 0, stretch:top" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-over.x-tab-navigation-left:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-left-over-corners.gif), sides:url(images/tab/tab-navigation-left-over-sides.gif), frame-bg:url(images/tab/tab-navigation-left-over-fbg.gif), frame:0 0 0 0, stretch:right" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-active.x-tab-navigation-top:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-top-active-corners.gif), sides:url(images/tab/tab-navigation-top-active-sides.gif), frame-bg:url(images/tab/tab-navigation-top-active-fbg.gif), frame:0 0 0 0, stretch:bottom" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-active.x-tab-navigation-right:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-right-active-corners.gif), sides:url(images/tab/tab-navigation-right-active-sides.gif), frame-bg:url(images/tab/tab-navigation-right-active-fbg.gif), frame:0 0 0 0, stretch:left" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-active.x-tab-navigation-bottom:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-bottom-active-corners.gif), sides:url(images/tab/tab-navigation-bottom-active-sides.gif), frame-bg:url(images/tab/tab-navigation-bottom-active-fbg.gif), frame:0 0 0 0, stretch:top" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-active.x-tab-navigation-left:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-left-active-corners.gif), sides:url(images/tab/tab-navigation-left-active-sides.gif), frame-bg:url(images/tab/tab-navigation-left-active-fbg.gif), frame:0 0 0 0, stretch:right" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-focus.x-tab-over.x-tab-navigation-top:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-top-focus-over-corners.gif), sides:url(images/tab/tab-navigation-top-focus-over-sides.gif), frame-bg:url(images/tab/tab-navigation-top-focus-over-fbg.gif), frame:0 0 0 0, stretch:bottom" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-focus.x-tab-over.x-tab-navigation-right:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-right-focus-over-corners.gif), sides:url(images/tab/tab-navigation-right-focus-over-sides.gif), frame-bg:url(images/tab/tab-navigation-right-focus-over-fbg.gif), frame:0 0 0 0, stretch:left" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-focus.x-tab-over.x-tab-navigation-bottom:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-bottom-focus-over-corners.gif), sides:url(images/tab/tab-navigation-bottom-focus-over-sides.gif), frame-bg:url(images/tab/tab-navigation-bottom-focus-over-fbg.gif), frame:0 0 0 0, stretch:top" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-focus.x-tab-over.x-tab-navigation-left:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-left-focus-over-corners.gif), sides:url(images/tab/tab-navigation-left-focus-over-sides.gif), frame-bg:url(images/tab/tab-navigation-left-focus-over-fbg.gif), frame:0 0 0 0, stretch:right" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-focus.x-tab-active.x-tab-navigation-top:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-top-focus-active-corners.gif), sides:url(images/tab/tab-navigation-top-focus-active-sides.gif), frame-bg:url(images/tab/tab-navigation-top-focus-active-fbg.gif), frame:0 0 0 0, stretch:bottom" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-focus.x-tab-active.x-tab-navigation-right:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-right-focus-active-corners.gif), sides:url(images/tab/tab-navigation-right-focus-active-sides.gif), frame-bg:url(images/tab/tab-navigation-right-focus-active-fbg.gif), frame:0 0 0 0, stretch:left" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-focus.x-tab-active.x-tab-navigation-bottom:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-bottom-focus-active-corners.gif), sides:url(images/tab/tab-navigation-bottom-focus-active-sides.gif), frame-bg:url(images/tab/tab-navigation-bottom-focus-active-fbg.gif), frame:0 0 0 0, stretch:top" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-focus.x-tab-active.x-tab-navigation-left:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-left-focus-active-corners.gif), sides:url(images/tab/tab-navigation-left-focus-active-sides.gif), frame-bg:url(images/tab/tab-navigation-left-focus-active-fbg.gif), frame:0 0 0 0, stretch:right" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-disabled.x-tab-navigation-top:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-top-disabled-corners.gif), sides:url(images/tab/tab-navigation-top-disabled-sides.gif), frame-bg:url(images/tab/tab-navigation-top-disabled-fbg.gif), frame:0 0 0 0, stretch:bottom" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-disabled.x-tab-navigation-right:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-right-disabled-corners.gif), sides:url(images/tab/tab-navigation-right-disabled-sides.gif), frame-bg:url(images/tab/tab-navigation-right-disabled-fbg.gif), frame:0 0 0 0, stretch:left" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-disabled.x-tab-navigation-bottom:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-bottom-disabled-corners.gif), sides:url(images/tab/tab-navigation-bottom-disabled-sides.gif), frame-bg:url(images/tab/tab-navigation-bottom-disabled-fbg.gif), frame:0 0 0 0, stretch:top" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-disabled.x-tab-navigation-left:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, corners:url(images/tab/tab-navigation-left-disabled-corners.gif), sides:url(images/tab/tab-navigation-left-disabled-sides.gif), frame-bg:url(images/tab/tab-navigation-left-disabled-fbg.gif), frame:0 0 0 0, stretch:right" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:389 */
+.x-tab-bar-navigation {
+    background-color: #404040;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:428 */
+.x-tab-bar-navigation-top > .x-tab-bar-body-navigation {
+    padding: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:432 */
+.x-tab-bar-navigation-bottom > .x-tab-bar-body-navigation {
+    padding: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:436 */
+.x-tab-bar-navigation-left > .x-tab-bar-body-navigation {
+    padding: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:441 */
+.x-rtl.x-tab-bar-navigation-left > .x-tab-bar-body-navigation {
+    padding: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:446 */
+.x-tab-bar-navigation-right > .x-tab-bar-body-navigation {
+    padding: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:451 */
+.x-rtl.x-tab-bar-navigation-right > .x-tab-bar-body-navigation {
+    padding: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:459 */
+.x-tab-bar-plain.x-tab-bar-navigation-top > .x-tab-bar-body-navigation {
+    padding: 8px 8px 8px 16px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:463 */
+.x-tab-bar-plain.x-tab-bar-navigation-bottom > .x-tab-bar-body-navigation {
+    padding: 8px 8px 8px 16px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:467 */
+.x-tab-bar-plain.x-tab-bar-navigation-left > .x-tab-bar-body-navigation {
+    padding: 8px 8px 16px 8px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:472 */
+.x-rtl.x-tab-bar-plain.x-tab-bar-navigation-left > .x-tab-bar-body-navigation {
+    padding: 8px 8px 16px 8px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:477 */
+.x-tab-bar-plain.x-tab-bar-navigation-right > .x-tab-bar-body-navigation {
+    padding: 16px 8px 8px 8px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:482 */
+.x-rtl.x-tab-bar-plain.x-tab-bar-navigation-right > .x-tab-bar-body-navigation {
+    padding: 16px 8px 8px 8px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:490 */
+.x-tab-bar-plain.x-tab-bar-navigation-horizontal {
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    border-left-width: 0;
+    border-right-width: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:497 */
+.x-tab-bar-plain.x-tab-bar-navigation-vertical {
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-top-width: 0;
+    border-bottom-width: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:611 */
+.x-tab-bar-horizontal > .x-tab-bar-body-navigation {
+    min-height: 72px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:614 */
+.x-ie8m .x-tab-bar-horizontal > .x-tab-bar-body-navigation {
+    min-height: 72px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:621 */
+.x-tab-bar-vertical > .x-tab-bar-body-navigation {
+    min-width: 72px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:624 */
+.x-ie8m .x-tab-bar-vertical > .x-tab-bar-body-navigation {
+    min-width: 72px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:182 */
+.x-tab-bar-navigation-scroller .x-box-scroller-body-horizontal {
+    margin-left: 24px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:187 */
+.x-tab-bar-navigation-scroller.x-rtl .x-box-scroller-body-horizontal {
+    margin-left: 0;
+    margin-right: 24px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:195 */
+.x-tab-bar-navigation-vertical-scroller .x-box-scroller-body-vertical {
+    margin-top: 24px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:200 */
+.x-box-scroller-tab-bar-navigation {
+    cursor: pointer;
+    color: #fff;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+    opacity: 0.75;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:210 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-hover {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    opacity: 1;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:216 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-pressed {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+    opacity: 0.7;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:222 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-disabled {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=25)";
+    opacity: 0.25;
+    cursor: default;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:232 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-left,
+.x-box-scroller-tab-bar-navigation.x-box-scroller-right {
+    width: 24px;
+    height: 60px;
+    top: 50%;
+    margin-top: -30px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:259 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-left {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    font: 24px/60px 'Font Awesome 5 Free';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/etc/mixins/font-icon.scss:132 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-left:before {
+    content: '\f053';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:284 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-right {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    font: 24px/60px 'Font Awesome 5 Free';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/etc/mixins/font-icon.scss:132 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-right:before {
+    content: '\f054';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:311 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-top,
+.x-box-scroller-tab-bar-navigation.x-box-scroller-bottom {
+    height: 24px;
+    width: 60px;
+    left: 50%;
+    margin-left: -30px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:338 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-top {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    font: 24px/24px 'Font Awesome 5 Free';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/etc/mixins/font-icon.scss:132 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-top:before {
+    content: '\f077';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/layout/container/Box.scss:363 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-bottom {
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    font: 24px/24px 'Font Awesome 5 Free';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/etc/mixins/font-icon.scss:132 */
+.x-box-scroller-tab-bar-navigation.x-box-scroller-bottom:before {
+    content: '\f078';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:704 */
+.x-tab-bar-more-icon {
+    font: 18px/1 'Font Awesome 5 Free';
+    color: #f0f0f0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/etc/mixins/font-icon.scss:132 */
+.x-tab-bar-more-icon:before {
+    content: '\f0c9';
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:721 */
+.x-tab-bar-plain.x-tab-bar-navigation-scroller .x-box-scroller-body-horizontal {
+    margin-left: 8px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:727 */
+.x-tab-bar-plain.x-tab-bar-navigation-vertical-scroller .x-box-scroller-body-vertical {
+    margin-top: 16px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:732 */
+.x-tab-bar-plain .x-box-scroller-tab-bar-navigation {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:780 */
+.x-tab-bar-navigation-top .x-box-scroller-tab-bar-navigation {
+    margin-top: -30px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:784 */
+.x-tab-bar-navigation-right .x-box-scroller-tab-bar-navigation {
+    margin-left: -30px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:788 */
+.x-tab-bar-navigation-bottom .x-box-scroller-tab-bar-navigation {
+    margin-top: -30px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:792 */
+.x-tab-bar-navigation-left .x-box-scroller-tab-bar-navigation {
+    margin-left: -30px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:801 */
+.x-box-scroller-tab-bar-navigation {
+    background-color: #404040;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/tab/Bar.scss:807 */
+.x-box-scroller-tab-bar-navigation .x-ie8 .x-box-scroller-plain {
+    background-color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-bar-navigation-top:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, stretch:bottom" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-bar-navigation-bottom:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, stretch:top" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-bar-navigation-left:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, stretch:right" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-tab-bar-navigation-right:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, stretch:left" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:799 */
+.x-panel-navigation {
+    border-color: #1b1b1b;
+    padding: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:802 */
+.x-panel-navigation.x-masked {
+    border-color: #8d8d8d;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:810 */
+.x-panel-header-navigation {
+    font-size: 20px;
+    border: 1px solid #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:836 */
+.x-panel-header-navigation .x-tool-tool-el {
+    background-color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:842 */
+.x-panel-header-navigation-horizontal {
+    padding: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:846 */
+.x-panel-header-navigation-horizontal .x-panel-header-navigation-tab-bar {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:866 */
+.x-panel-header-navigation-vertical {
+    padding: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:870 */
+.x-panel-header-navigation-vertical .x-panel-header-navigation-tab-bar {
+    margin-right: 0;
+    margin-left: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:891 */
+.x-rtl.x-panel-header-navigation-vertical {
+    padding: 0 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:895 */
+.x-rtl.x-panel-header-navigation-vertical .x-panel-header-navigation-tab-bar {
+    margin-left: 0;
+    margin-right: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:916 */
+.x-panel-header-title-navigation {
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    line-height: 24px;
+    margin: 36px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:929 */
+.x-keyboard-mode .x-panel-header-title-navigation.x-title-focus {
+    color: #fff;
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:950 */
+.x-panel-header-title-navigation > .x-title-text-navigation {
+    text-transform: none;
+    padding: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:997 */
+.x-panel-header-title-navigation > .x-title-icon-wrap-navigation.x-title-icon-top {
+    height: 39px;
+    padding-bottom: 15px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1002 */
+.x-panel-header-title-navigation > .x-title-icon-wrap-navigation.x-title-icon-right {
+    width: 39px;
+    padding-left: 15px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1007 */
+.x-panel-header-title-navigation > .x-title-icon-wrap-navigation.x-title-icon-right.x-rtl {
+    padding-left: 0;
+    padding-right: 15px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1014 */
+.x-panel-header-title-navigation > .x-title-icon-wrap-navigation.x-title-icon-bottom {
+    height: 39px;
+    padding-top: 15px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1019 */
+.x-panel-header-title-navigation > .x-title-icon-wrap-navigation.x-title-icon-left {
+    width: 39px;
+    padding-right: 15px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1024 */
+.x-panel-header-title-navigation > .x-title-icon-wrap-navigation.x-title-icon-left.x-rtl {
+    padding-right: 0;
+    padding-left: 15px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1031 */
+.x-panel-header-title-navigation > .x-title-icon-wrap-navigation > .x-title-icon-navigation {
+    width: 24px;
+    height: 24px;
+    font-size: 24px;
+    color: #fff;
+    background-position: center center;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1051 */
+.x-ie8 .x-panel-header-title-navigation > .x-title-icon-wrap-navigation > .x-title-icon-navigation.x-title-glyph {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1062 */
+.x-panel-body-navigation {
+    background: #424242;
+    border-color: #707070;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+    border-width: 1px;
+    border-style: solid;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1226 */
+.x-panel-header-navigation {
+    background-image: none;
+    background-color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1230 */
+.x-panel-header-navigation-vertical {
+    background-image: none;
+    background-color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1235 */
+.x-rtl.x-panel-header-navigation-vertical {
+    background-image: none;
+    background-color: #1b1b1b;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1288 */
+.x-panel .x-panel-header-navigation-collapsed-border-top {
+    border-bottom-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1292 */
+.x-panel .x-panel-header-navigation-collapsed-border-right {
+    border-left-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1296 */
+.x-panel .x-panel-header-navigation-collapsed-border-bottom {
+    border-top-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1300 */
+.x-panel .x-panel-header-navigation-collapsed-border-left {
+    border-right-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-panel-header-navigation-top:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, stretch:bottom" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-panel-header-navigation-bottom:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, stretch:top" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-panel-header-navigation-left:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, stretch:right" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/slicer.scss:83 */
+.x-cmd-slicer.x-panel-header-navigation-right:before {
+    /*<if slicer>*/
+    display: none;
+    content: "x-slicer:, stretch:left" !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1336 */
+.x-panel-header-navigation-horizontal .x-tool-after-title {
+    margin: 0 0 0 8px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1341 */
+.x-panel-header-navigation-horizontal .x-rtl.x-tool-after-title {
+    margin: 0 8px 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1346 */
+.x-panel-header-navigation-horizontal .x-tool-before-title {
+    margin: 0 8px 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1351 */
+.x-panel-header-navigation-horizontal .x-rtl.x-tool-before-title {
+    margin: 0 0 0 8px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1358 */
+.x-panel-header-navigation-vertical .x-tool-after-title {
+    margin: 8px 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1363 */
+.x-panel-header-navigation-vertical .x-rtl.x-tool-after-title {
+    margin: 8px 0 0 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1368 */
+.x-panel-header-navigation-vertical .x-tool-before-title {
+    margin: 0 0 8px 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1373 */
+.x-panel-header-navigation-vertical .x-rtl.x-tool-before-title {
+    margin: 0 0 8px 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1381 */
+.x-keyboard-mode .x-panel-header-navigation .x-tool-focus {
+    outline: 0px solid #424242;
+    outline-offset: 2px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1382 */
+.x-keyboard-mode .x-panel-header-navigation .x-tool-focus .x-tool-tool-el {
+    color: #fff;
+    background-color: #56b4e9;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/css-outline.scss:63 */
+.x-ie .x-keyboard-mode .x-panel-header-navigation .x-tool-focus,
+.x-ie10p .x-keyboard-mode .x-panel-header-navigation .x-tool-focus,
+.x-edge .x-keyboard-mode .x-panel-header-navigation .x-tool-focus {
+    outline: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/css-outline.scss:39 */
+.x-ie .x-keyboard-mode .x-panel-header-navigation .x-tool-focus:after,
+.x-ie10p .x-keyboard-mode .x-panel-header-navigation .x-tool-focus:after,
+.x-edge .x-keyboard-mode .x-panel-header-navigation .x-tool-focus:after {
+    position: absolute;
+    content: ' ';
+    top: -2px;
+    right: -2px;
+    bottom: -2px;
+    left: -2px;
+    border: 0px solid #424242;
+    pointer-events: none;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1412 */
+.x-rtl.x-panel-header-navigation-collapsed-border-right {
+    border-right-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1415 */
+.x-rtl.x-panel-header-navigation-collapsed-border-left {
+    border-left-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-neutral/sass/var/panel/Panel.scss:1429 */
+.x-panel-navigation-resizable .x-panel-handle {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    opacity: 0;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:2 */
+.x-panel-navigation-outer-border-l {
+    border-left-color: #1b1b1b !important;
+    border-left-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:6 */
+.x-panel-navigation-outer-border-b {
+    border-bottom-color: #1b1b1b !important;
+    border-bottom-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:10 */
+.x-panel-navigation-outer-border-bl {
+    border-bottom-color: #1b1b1b !important;
+    border-bottom-width: 1px !important;
+    border-left-color: #1b1b1b !important;
+    border-left-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:16 */
+.x-panel-navigation-outer-border-r {
+    border-right-color: #1b1b1b !important;
+    border-right-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:20 */
+.x-panel-navigation-outer-border-rl {
+    border-right-color: #1b1b1b !important;
+    border-right-width: 1px !important;
+    border-left-color: #1b1b1b !important;
+    border-left-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:26 */
+.x-panel-navigation-outer-border-rb {
+    border-right-color: #1b1b1b !important;
+    border-right-width: 1px !important;
+    border-bottom-color: #1b1b1b !important;
+    border-bottom-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:32 */
+.x-panel-navigation-outer-border-rbl {
+    border-right-color: #1b1b1b !important;
+    border-right-width: 1px !important;
+    border-bottom-color: #1b1b1b !important;
+    border-bottom-width: 1px !important;
+    border-left-color: #1b1b1b !important;
+    border-left-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:40 */
+.x-panel-navigation-outer-border-t {
+    border-top-color: #1b1b1b !important;
+    border-top-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:44 */
+.x-panel-navigation-outer-border-tl {
+    border-top-color: #1b1b1b !important;
+    border-top-width: 1px !important;
+    border-left-color: #1b1b1b !important;
+    border-left-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:50 */
+.x-panel-navigation-outer-border-tb {
+    border-top-color: #1b1b1b !important;
+    border-top-width: 1px !important;
+    border-bottom-color: #1b1b1b !important;
+    border-bottom-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:56 */
+.x-panel-navigation-outer-border-tbl {
+    border-top-color: #1b1b1b !important;
+    border-top-width: 1px !important;
+    border-bottom-color: #1b1b1b !important;
+    border-bottom-width: 1px !important;
+    border-left-color: #1b1b1b !important;
+    border-left-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:64 */
+.x-panel-navigation-outer-border-tr {
+    border-top-color: #1b1b1b !important;
+    border-top-width: 1px !important;
+    border-right-color: #1b1b1b !important;
+    border-right-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:70 */
+.x-panel-navigation-outer-border-trl {
+    border-top-color: #1b1b1b !important;
+    border-top-width: 1px !important;
+    border-right-color: #1b1b1b !important;
+    border-right-width: 1px !important;
+    border-left-color: #1b1b1b !important;
+    border-left-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:78 */
+.x-panel-navigation-outer-border-trb {
+    border-top-color: #1b1b1b !important;
+    border-top-width: 1px !important;
+    border-right-color: #1b1b1b !important;
+    border-right-width: 1px !important;
+    border-bottom-color: #1b1b1b !important;
+    border-bottom-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/ext/classic/theme-base/sass/etc/mixins/border-management.scss:86 */
+.x-panel-navigation-outer-border-trbl {
+    border-color: #1b1b1b !important;
+    border-width: 1px !important;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/classic/src/view/main/Main.scss:64 */
+.x-title-icon-navigation {
+    font-family: 'Font Awesome 5 Free';
+    color: #fff;
+    font-size: 24px;
+    line-height: 24px;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/classic/src/view/main/Main.scss:71 */
+.x-tab-icon-el-navigation {
+    font-family: 'Font Awesome 5 Free';
+    color: #acacac;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/classic/src/view/main/Main.scss:75 */
+.x-tab-over .x-tab-icon-el-navigation {
+    color: #c4c4c4;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/classic/src/view/main/Main.scss:79 */
+.x-tab-active .x-tab-icon-el-navigation {
+    color: #fff;
+}
+/* C:/Users/PAVILION/Desktop/MiAppSencha/classic/src/view/main/Main.scss:84 */
+.x-panel-header-title-navigation > .x-title-text-navigation:after {
+    top: 30px;
+    right: -24px;
+}
